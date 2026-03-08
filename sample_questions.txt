@@ -1,0 +1,14 @@
+
+
+
+## Example Questions
+
+bhaiya photosynthesis kya hota hai  
+gravity ka formula kaise use kare  
+linear equation ka simple trick batao
+
+## Future Improvements
+
+Adaptive difficulty explanation  
+Teacher analytics dashboard  
+Student learning streak system
